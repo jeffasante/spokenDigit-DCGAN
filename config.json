@@ -1,0 +1,19 @@
+{
+    "batch_size": 8,
+    "sample_rate": 8000,
+    "n_fft": 1024,
+    "hop_size": 64,
+    "win_size": 125,
+    "num_mels": 80,
+    "segment_size": 18262,
+    "fmin": 0,
+    "fmax": 4000,
+    "learning_rate": 0.0002,
+    "ndf": 80,
+    "ngf": 80,
+    "nz": 100,
+    "num_epochs": 5,
+    "beta1": 0.5,
+    "seed": 999,
+    "num_gpu": 1
+}
